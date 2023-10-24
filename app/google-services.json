@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "593500161783",
+    "project_id": "bakeryourdream",
+    "storage_bucket": "bakeryourdream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593500161783:android:377f56ac4245c8c51675f2",
+        "android_client_info": {
+          "package_name": "com.wladimirbr.bakeryourdream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593500161783-o50umtu884bt0a3npsupf741419dgqde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wladimirbr.bakeryourdream",
+            "certificate_hash": "73f3e933950d3a427c28a058e51e6b76607a8e48"
+          }
+        },
+        {
+          "client_id": "593500161783-f4gm83mrcuqq8aan27kluvt8hcd1s6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3lNGaFjzx08yn2pupYkXIa6ZesOPrPlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593500161783-2mi8p9qchrtedrg97l481vk3ennhbtmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
